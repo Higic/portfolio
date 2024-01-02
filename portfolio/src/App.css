@@ -1,0 +1,97 @@
+.mainContent {
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 75%;
+}
+
+body {
+  background-color: #042645;
+  color: #DCDCDC;
+}
+
+main {
+  font-family: 'Ubuntu', sans-serif;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+/* Portfolio styling */
+
+.basicInfo {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills-list {
+  width: 30%;
+}
+
+.projectList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.project {
+  width: 40%;
+  margin-bottom: 30px;
+  height: auto;
+}
+
+.project img {
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+
+a {
+  /* white colored link with underline even after pressed */
+  color: #DCDCDC
+}
+
+@media only screen and (max-width: 800px) {
+  nav {
+    justify-content: center;
+  }
+
+  main {
+    justify-content: center;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  .mainContent {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .basicInfo {
+    width: 100%;
+  }
+
+  .skills-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .projectList {
+    flex-direction: column;
+    align-items: center;
+  }
+}
