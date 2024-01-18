@@ -31,11 +31,11 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="project">
-                    <h3><a href="https://github.com/Higic/Ravintoarvosovellus" target="_blank" rel="noreferrer">Java FX Sorting simulator</a></h3>
-                    <p>A GUI meant to simulate the sorting of delivery parcels. This project was a school course for testing the JavaFX platform for creating a GUI. This was done in a group of 3</p>
-                    <p className="projectTechnologies"><b>Used technologies:</b> Eclipse IDE, Java, JavaFX, MariaDB, Git</p>
+                    <h3><a href="#">Java FX Sorting simulator</a></h3>
+                    <p>A GUI meant to simulate the sorting of delivery parcels. This project was a school course for testing the JavaFX platform for creating a GUI. This was done in a group of 3 usgin Subversion instead of Git.</p>
+                    <p className="projectTechnologies"><b>Used technologies:</b> Eclipse IDE, Java, JavaFX, MariaDB, SVN</p>
                     <div classname="projectImage">
-                        <img src={JFXSim} alt="NutritionTracker homescreen" />
+                        <img src={JFXSim} alt="JavaFx homescreen" />
                     </div>
                 </div>
                 <div className="project">
@@ -47,8 +47,8 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="project">
-                    <h3><a href="https://google.com" target="_blank" rel="noreferrer">Mökille.fi</a></h3>
-                    <p>Mökille.fi was an all-in-one summer cottage assistant website. This one taught us the basics of HTML. Made as a class project in a group of 4</p>
+                    <h3><a href="https://github.com/Higic/Summer-cottage">Mökille.fi</a></h3>
+                    <p>Mökille.fi was an all-in-one summer cottage assistant website. This one taught us the basics of HTML. Made as a class project in a group of 4.</p>
                     <p className="projectTechnologies"><b>Used technologies:</b> HTML, JavaScript, MariaDB, Git</p>
                     <div classname="projectImage">
                         <img src={Mokille} alt="Mökille homepage" />
