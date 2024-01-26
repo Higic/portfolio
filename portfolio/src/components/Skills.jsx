@@ -20,12 +20,14 @@ const Skills = () => {
                 <div className="skills-list">
                     <h3>Programming languages:</h3>
                     <ul>
-                        <li><b>Java</b></li>
                         <li><b>HTML</b></li>
-                        <li>JavaScript</li>
+                        <li><b>Java</b></li>
                         <li>Python</li>
+                        <li>JavaScript</li>
+                        <li>TypeScript</li>
                         <li>C</li>
                         <li>C#</li>
+                        <li>Rust</li>
                     </ul>
                 </div>
 
