@@ -2,6 +2,9 @@
   "short_name": "Portfolio",
   "name": "Portfolio of Onni Alasaari",
   "icons": [
+    {
+      "src": "favicon.ico"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
