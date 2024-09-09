@@ -20,24 +20,27 @@ const Skills = () => {
                 <div className="skills-list">
                     <h3>Programming languages:</h3>
                     <ul>
+                        <li><b>Python</b></li>
                         <li><b>HTML</b></li>
                         <li><b>Java</b></li>
-                        <li>Python</li>
                         <li>JavaScript</li>
-                        <li>TypeScript</li>
                         <li>C</li>
-                        <li>C#</li>
+                        <li>C++</li>
                         <li>Rust</li>
+                        <li>C#</li>
+                        <li>TypeScript</li>
                     </ul>
                 </div>
 
                 <div className="skills-list">
-                    <h3>Frameworks and libraries:</h3>
+                    <h3>Databases and libraries</h3>
                     <ul>
                         <li><b>React</b></li>
                         <li><b>Firebase</b></li>
+                        <li>MongoDB</li>
                         <li>NodeJS</li>
                         <li>Playwright</li>
+                        <li>NextJS</li>
                     </ul>
                 </div>
 
@@ -46,20 +49,22 @@ const Skills = () => {
                     <ul>
                         <li><b>GitHub</b></li>
                         <li><b>VSCode</b></li>
+                        <li>Linux</li>
+                        <li>Jenkins</li>
+                        <li>Office 365</li>
                         <li>Github Copilot</li>
                         <li>Davinci Resolve</li>
-                        <li>PuTTY</li>
-                        <li>Office 365</li>
-                        <li>Ableton Live 11</li>
+                        <li>Ableton Live</li>
                     </ul>
                 </div>
 
                 <div className="skills-list">
                     <h3>Proficiencies:</h3>
                     <ul>
+                        <li>Testing</li>
                         <li>Backend</li>
                         <li>Frontend</li>
-                        <li>Testing</li>
+                        <li>Customer Service</li>
                     </ul>
                 </div>
             </div>

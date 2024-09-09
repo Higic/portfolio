@@ -10,7 +10,7 @@ const Portfolio = () => {
     return (
         <div className='mainContent'>
             <h1>Greetings!</h1>
-            <p>The name’s Onni and this is my portfolio!</p>
+            <p>The name's Onni and this is my portfolio! </p>
             <Info/>
             <Experience/>
             <Skills/>

@@ -9,7 +9,7 @@ const Contact = () => {
                     <p>You can also contact me via <a href="https://www.linkedin.com/in/onni-alasaari-626339272/" target="_blank" rel="noreferrer">LinkedIn</a>!</p>
                 </div>
 
-                    <p><b>Developed in React, made by Onni Alasaari, 2024</b></p>
+                    <p><b>Developed in React, made by Onni Alasaari, 2024, source code can be found <a href="https://github.com/Higic/portfolio/tree/master/portfolio">here</a></b></p>
             </footer>
         </div>
     );

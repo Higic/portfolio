@@ -2,6 +2,7 @@ import React from "react";
 import Ast3Drois from "../img/Ast3Drois.jpg"
 import NutritionTracker from "../img/NutritionTracker.png"
 import Giphygle from "../img/Giphygle.png"
+import GameClub from "../img/GameClub.jpg"
 import Whisperfeed from "../img/Whisperfeed.jpg"
 import JFXSim from "../img/JFX sim.png"
 import Mokille from "../img/Mokille.jpg"
@@ -12,8 +13,16 @@ const Projects = () => {
             <p>
             </p>
             <h2>Completed Projects</h2>
-            <p>Here are some of the projects I have completed so far. The projects are listed in chronological order.</p>
+            <p>Here are some of the larger projects I have completed so far. The projects are listed in chronological order.</p>
             <div className="projectList">
+                <div className="project">
+                    <h3><a href="https://github.com/Higic/Game-Club" target="_blank" rel="noreferrer">Game Club</a></h3>
+                    <p>Game Club was the first TypeScript project, also made in year 2 in a group of 4. This project expanded on web development and we used NextJS and Vercel.</p>
+                    <p className="projectTechnologies"><b>Used technologies:</b> NextJS, TypeScript Node, MongoDB, Vercel, Git</p>
+                    <div className="projectImage">
+                        <img src={GameClub} alt="WhisperFeed homescreen" />
+                    </div>
+                </div>
                 <div className="project">
                     <h3><a href="https://github.com/Vandarks/WhisperFeed" target="_blank" rel="noreferrer">WhisperFeed</a></h3>
                     <p>WhisperFeed is the latest project made in my second year of school. It is a web-based feedback system for both teachers and students. Made as a course project in a group of 4.</p>
