@@ -6,7 +6,7 @@ const Experience = () => {
             <h2>Previous work experience</h2>
 
             <ul>
-                <li>Lab Team Trainee, Airbus Helsinki, May 2024 - December 2024</li>
+                <li>Lab Team Trainee, Airbus Helsinki, May 2024 - September 2025</li>
                 <li>Salesperson, Clas Ohlson, October 2021- December 2023</li>
                 <li>Event technician, The Best Crew Ever, October 2019</li>
             </ul>
