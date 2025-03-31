@@ -1,10 +1,9 @@
-import React from "react";
-
 const Skills = () => {
     return (
         <div>
             <h2>Skills</h2>
-            <p>Here are some of the skills I have acquired so far in order of comfortability. Skills marked as <b>bold</b> are ones I am really comfortable with.</p>
+            <p>Here are some of the skills I have acquired so far in order of comfortability.</p>
+            <p>Skills marked as <b>bold</b> are ones I am really comfortable with or have significant experience in.</p>
             <div className="skills-container">
 
                 <div className="skills-list">
@@ -35,6 +34,7 @@ const Skills = () => {
                 <div className="skills-list">
                     <h3>Databases and libraries</h3>
                     <ul>
+                        <li><b>MySQL</b></li>
                         <li><b>React</b></li>
                         <li><b>Firebase</b></li>
                         <li>MongoDB</li>
@@ -54,14 +54,15 @@ const Skills = () => {
                         <li>Office 365</li>
                         <li>Github Copilot</li>
                         <li>Davinci Resolve</li>
-                        <li>Ableton Live</li>
+                        <li>Ableton</li>
                     </ul>
                 </div>
 
                 <div className="skills-list">
                     <h3>Proficiencies:</h3>
                     <ul>
-                        <li>Testing</li>
+                        <li>Full stack development</li>
+                        <li>Test automation</li>
                         <li>Backend</li>
                         <li>Frontend</li>
                         <li>Customer Service</li>

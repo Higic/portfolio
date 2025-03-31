@@ -1,4 +1,3 @@
-import React from "react";
 import Ast3Drois from "../img/Ast3Drois.jpg"
 import NutritionTracker from "../img/NutritionTracker.png"
 import Giphygle from "../img/Giphygle.png"

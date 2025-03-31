@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Info = () => {
 
     return (
@@ -15,6 +13,7 @@ const Info = () => {
             <br/>
             I have no problems working in stressful or rushed environments. My first Internship was at Airbus Helsinki's Lab Testing team. During my internship I learned about SCRUM in a real working environment.
             Most of my time was spent programming internal software for the team in Python. Other technologies included automated testing and scripts for different shells.<br/>
+            The internship culminated to a full stack project where the Python program was matched with Mysql, React and NodeJS.
 
             </p>
         </div>
