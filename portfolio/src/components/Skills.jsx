@@ -35,10 +35,11 @@ const Skills = () => {
                     <h3>Databases and libraries</h3>
                     <ul>
                         <li><b>MySQL</b></li>
+                        <li><b>Nginx</b></li>
+                        <li><b>NodeJS</b></li>
                         <li><b>React</b></li>
                         <li><b>Firebase</b></li>
                         <li>MongoDB</li>
-                        <li>NodeJS</li>
                         <li>Playwright</li>
                         <li>NextJS</li>
                     </ul>
