@@ -25,9 +25,9 @@ const Skills = () => {
                         <li>JavaScript</li>
                         <li>C</li>
                         <li>C++</li>
+                        <li>TypeScript</li>
                         <li>Rust</li>
                         <li>C#</li>
-                        <li>TypeScript</li>
                     </ul>
                 </div>
 
@@ -35,8 +35,8 @@ const Skills = () => {
                     <h3>Databases and libraries</h3>
                     <ul>
                         <li><b>MySQL</b></li>
-                        <li><b>Nginx</b></li>
                         <li><b>NodeJS</b></li>
+                        <li><b>Nginx</b></li>
                         <li><b>React</b></li>
                         <li><b>Firebase</b></li>
                         <li>MongoDB</li>
@@ -48,7 +48,7 @@ const Skills = () => {
                 <div className="skills-list">
                     <h3>Tools:</h3>
                     <ul>
-                        <li><b>GitHub</b></li>
+                        <li><b>Git</b></li>
                         <li><b>VSCode</b></li>
                         <li>Linux</li>
                         <li>Jenkins</li>
@@ -63,6 +63,7 @@ const Skills = () => {
                     <h3>Proficiencies:</h3>
                     <ul>
                         <li>Full stack development</li>
+                        <li>Server management</li>
                         <li>Test automation</li>
                         <li>Backend</li>
                         <li>Frontend</li>
