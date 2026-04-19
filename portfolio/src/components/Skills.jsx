@@ -52,7 +52,7 @@ const Skills = () => {
                         <li><b>VSCode</b></li>
                         <li>Linux</li>
                         <li>Jenkins</li>
-                        <li>Office 365</li>
+                        <li>Office 365 (Excel, PowerPoint, Word, etc...)</li>
                         <li>Github Copilot</li>
                         <li>Davinci Resolve</li>
                         <li>Ableton</li>
